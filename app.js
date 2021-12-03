@@ -1,6 +1,6 @@
-var ad=
+var ad=0
 function start(){
-    console.log("1 ou 2")
+    console.log("1 ou 2, tape ad=ta réponse")
 }
 function lol(){
     if (ad=="prout"){
