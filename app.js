@@ -1,13 +1,15 @@
 var ad=0
-function start(){
+function start(ad){
     console.log("1 ou 2, tape ad=ta réponse")
+    lol(ad)
 }
-function lol(){
-    if (ad=="prout"){
+function lol(ad){
+    if (ad==1){
         console.log("suce ma bite!")
-    } else if (ad=="crocodile") {
+    } else if (ad==2) {
         console.log("bois du viagra!")
     } else {
         console.log("tu es obèse")
     }
 }
+start(ad)
