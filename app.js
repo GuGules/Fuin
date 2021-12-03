@@ -1,6 +1,6 @@
 var ad=0
 function start(ad){
-    console.log("1 ou 2, tape ad=ta réponse")
+    console.log("1 ou 2, tape ad=ta réponse puis lol(ad)")
     lol(ad)
 }
 function lol(ad){
