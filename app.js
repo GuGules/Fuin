@@ -1,11 +1,11 @@
-var ad="x"
+var ad=
 function start(){
-    console.log("prout ou crocodile")
+    console.log("1 ou 2")
 }
 function lol(){
     if (ad=="prout"){
         console.log("suce ma bite!")
-    } elif (ad=="crocodile") ;{
+    } else if (ad=="crocodile") {
         console.log("bois du viagra!")
     } else {
         console.log("tu es obèse")
